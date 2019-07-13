@@ -2,7 +2,6 @@
 practise
 Hello Iam kunal and im lerning git.
 
-this is second time im going for this. 
-
+im deleted the second commited content
 
 This is third time.
