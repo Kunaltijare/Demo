@@ -1,9 +1,10 @@
-# Demo
-practise
-Hello Iam kunal and im lerning git.
-
-im deleted the second commited content
-
-This is third time.
-Hey thiis is the nem branch that ive just created.
-
+#include<stdio.h>
+int main()
+{
+  int num1,num2,sum;
+  printf("Enter Num1 and Num2");
+  scanf("%d%d",&num1,&num2);
+  sum=num1+num2;
+  printf("Summation Is:%d",sum);
+  return 0;
+}
