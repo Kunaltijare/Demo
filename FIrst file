@@ -1,2 +1,13 @@
-Hello WORLD THANK YOU A LOT FOR YOUR SUPPORT..!
-	this is what i done from the command prompt
+#include <stdio.h>
+int main()
+{
+	int num1,num2,sum;
+	printf("Enetr two numbers");
+	scanf("%d%d",&num1,&num2);
+	sum=num1+num2;
+	printf("Summation is:%d",sum);
+	return 0;
+}
+
+#im kunal
+	
